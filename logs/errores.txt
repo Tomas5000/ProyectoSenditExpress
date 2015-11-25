@@ -1,0 +1,2502 @@
+2015-11-24 08:57:09 (CST)      SQLSTATE[42S02]: Base table or view not found: 1146 Table 'inventario_db.cliente' doesn't exist C:\Apache24\htdocs\proyectoEjemploSendItExpress456\libs\DBConexion.php 69
+
+2015-11-24 08:59:40 (CST)      SQLSTATE[42S02]: Base table or view not found: 1146 Table 'inventario_db.cliente' doesn't exist C:\Apache24\htdocs\proyectoEjemploSendItExpress456\libs\DBConexion.php 69
+
+2015-11-24 09:00:20 (CST)      Undefined index: global C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Inventario\crear.php 18
+
+2015-11-24 09:00:20 (CST)      No existe el metodo css en el controlador controllers\Inventario C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:01:17 (CST)      No existe el metodo css en el controlador controllers\Inventario C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:01:52 (CST)      No existe el metodo css en el controlador controllers\Inventario C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:02:14 (CST)      SQLSTATE[42S02]: Base table or view not found: 1146 Table 'inventario_db.cliente' doesn't exist C:\Apache24\htdocs\proyectoEjemploSendItExpress456\libs\DBConexion.php 69
+
+2015-11-24 09:07:00 (CST)      No existe el metodo css en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:00 (CST)      No existe el metodo css en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:00 (CST)      No existe el metodo font-awesome en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:02 (CST)      No existe el metodo css en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:02 (CST)      No existe el metodo css en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:02 (CST)      No existe el metodo font-awesome en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:03 (CST)      No existe el metodo css en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:03 (CST)      No existe el metodo css en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:03 (CST)      No existe el metodo font-awesome en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:03 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:03 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:03 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:03 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:03 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:03 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:03 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:06 (CST)      No existe el metodo css en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:06 (CST)      No existe el metodo css en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:06 (CST)      No existe el metodo font-awesome en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:08 (CST)      No existe el metodo css en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:08 (CST)      No existe el metodo font-awesome en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:08 (CST)      No existe el metodo css en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:08 (CST)      No existe el metodo js en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:08 (CST)      No existe el metodo js en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:08 (CST)      No existe el metodo js en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:08 (CST)      No existe el metodo js en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:08 (CST)      No existe el metodo js en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:08 (CST)      No existe el metodo js en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:08 (CST)      No existe el metodo js en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:11 (CST)      No existe el metodo css en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:11 (CST)      No existe el metodo css en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:11 (CST)      No existe el metodo font-awesome en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:13 (CST)      No existe el metodo css en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:13 (CST)      No existe el metodo css en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:13 (CST)      No existe el metodo font-awesome en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:13 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:13 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:13 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:13 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:13 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:13 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:13 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:14 (CST)      No existe el metodo css en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:14 (CST)      No existe el metodo font-awesome en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:14 (CST)      No existe el metodo css en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:15 (CST)      No existe el metodo css en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:15 (CST)      No existe el metodo css en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:15 (CST)      No existe el metodo font-awesome en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:15 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:15 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:15 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:15 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:15 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:15 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:15 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:16 (CST)      No existe el metodo css en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:16 (CST)      No existe el metodo font-awesome en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:16 (CST)      No existe el metodo css en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:18 (CST)      No existe el metodo font-awesome en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:18 (CST)      No existe el metodo css en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:18 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:18 (CST)      No existe el metodo css en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:18 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:18 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:18 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:18 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:18 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:18 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:20 (CST)      No existe el metodo font-awesome en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:20 (CST)      No existe el metodo css en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:20 (CST)      No existe el metodo css en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:24 (CST)      No existe el metodo css en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:24 (CST)      No existe el metodo css en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:24 (CST)      No existe el metodo font-awesome en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:26 (CST)      No existe el metodo css en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:26 (CST)      No existe el metodo font-awesome en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:26 (CST)      No existe el metodo css en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:26 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:26 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:26 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:26 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:26 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:26 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:26 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:29 (CST)      No existe el metodo css en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:29 (CST)      No existe el metodo font-awesome en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:07:29 (CST)      No existe el metodo css en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:22:39 (CST)      No existe el metodo cliente en el controlador controllers\inventario C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:23:10 (CST)      No existe el metodo css en el controlador controllers\Inventario C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:23:32 (CST)      No existe el metodo css en el controlador controllers\Inventario C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:24:47 (CST)      No existe el metodo cliente en el controlador controllers\inventario C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:35:52 (CST)      No existe el metodo css en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:35:52 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:35:52 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:35:52 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:35:52 (CST)      No existe el metodo font-awesome en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:35:52 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:35:52 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:35:52 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:35:52 (CST)      No existe el metodo css en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:35:52 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:35:58 (CST)      No existe el metodo font-awesome en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:35:58 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:35:58 (CST)      No existe el metodo css en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:35:58 (CST)      No existe el metodo css en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:35:58 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:35:58 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:35:58 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:35:58 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:35:58 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:35:58 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 09:46:01 (CST)      No existe una vista de error C:\Apache24\htdocs\proyectoEjemploSendItExpress456\libs\View.php 40
+
+2015-11-24 09:58:08 (CST)      SQLSTATE[42S02]: Base table or view not found: 1146 Table 'senditexpress.sesion' doesn't exist C:\Apache24\htdocs\proyectoEjemploSendItExpress456\libs\DBConexion.php 116
+
+2015-11-24 14:08:07 (CST)      No existe el metodo css en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:08:07 (CST)      No existe el metodo css en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:08:07 (CST)      No existe el metodo font-awesome en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:08:07 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:08:07 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:08:07 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:08:07 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:08:07 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:08:07 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:08:07 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:09:50 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:09:50 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:09:50 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:09:50 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:09:50 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:09:50 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:09:50 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:03 (CST)      No existe el metodo css en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:03 (CST)      No existe el metodo font-awesome en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:03 (CST)      No existe el metodo css en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:03 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:03 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:03 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:03 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:03 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:03 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:03 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:59 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:59 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:59 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:59 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:59 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:59 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:10:59 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:11:01 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:11:01 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:11:01 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:11:01 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:11:01 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:11:01 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:11:01 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:11:51 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:11:51 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:11:51 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:11:51 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:11:51 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:11:51 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:11:51 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:11:55 (CST)      No existe el metodo js en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:11:55 (CST)      No existe el metodo js en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:11:55 (CST)      No existe el metodo js en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:11:55 (CST)      No existe el metodo js en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:11:55 (CST)      No existe el metodo js en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:11:55 (CST)      No existe el metodo js en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:11:55 (CST)      No existe el metodo js en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:03 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:03 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:03 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:03 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:03 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:03 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:03 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:05 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 556
+
+2015-11-24 14:12:05 (CST)      No existe el metodo css en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:05 (CST)      No existe el metodo css en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:05 (CST)      No existe el metodo font-awesome en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:05 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:05 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:05 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:05 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:05 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:05 (CST)      No existe el metodo js en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:05 (CST)      No existe el metodo js en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:05 (CST)      No existe el metodo js en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:05 (CST)      No existe el metodo js en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:05 (CST)      No existe el metodo js en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:05 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:05 (CST)      No existe el metodo js en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:05 (CST)      No existe el metodo js en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:05 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:10 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:10 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:10 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:10 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:10 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:10 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:10 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:25 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:25 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:25 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:25 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:25 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:25 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:25 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:29 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:29 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:29 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:29 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:29 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:29 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:12:29 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:03 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-24 14:13:03 (CST)      No existe el metodo js en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:03 (CST)      No existe el metodo js en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:03 (CST)      No existe el metodo js en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:03 (CST)      No existe el metodo js en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:03 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:03 (CST)      No existe el metodo js en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:03 (CST)      No existe el metodo js en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:03 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:03 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:03 (CST)      No existe el metodo js en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:03 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:03 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:03 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:03 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:36 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:36 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:36 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:36 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:36 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:36 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:36 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:50 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:50 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:50 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:50 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:50 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:50 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:13:50 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:19:23 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:19:23 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:19:23 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:19:23 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:19:23 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:19:23 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:19:23 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:43 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:43 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:43 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:43 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:43 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:43 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:43 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:46 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:46 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:46 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:46 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:46 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:46 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:46 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:53 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:53 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:53 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:53 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:53 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:53 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:53 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:54 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-24 14:23:54 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:54 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:54 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:54 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:54 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:54 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:23:54 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:27:48 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-24 14:27:48 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:27:48 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:27:48 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:27:48 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:27:48 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:27:48 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:27:48 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:27:50 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-24 14:27:50 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:27:50 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:27:50 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:27:50 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:27:50 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:27:50 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:27:50 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:31:02 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-24 14:31:03 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:31:03 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:31:03 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:31:03 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:31:03 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:31:03 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:31:03 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:31:23 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-24 14:31:23 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:31:23 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:31:23 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:31:23 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:31:23 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:31:23 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:31:23 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:32:35 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-24 14:32:35 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:32:35 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:32:35 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:32:35 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:32:35 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:32:35 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:32:35 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:32:36 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-24 14:32:36 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:32:36 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:32:36 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:32:36 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:32:36 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:32:36 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:32:36 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:35:56 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-24 14:35:56 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:35:56 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:35:56 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:35:56 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:35:56 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:35:56 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:35:56 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:35:56 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:35:56 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:35:56 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:35:56 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:35:56 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:35:56 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:36:11 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:36:11 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:36:11 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:36:11 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:36:11 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:36:11 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:36:11 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:36:12 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-24 14:36:12 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:36:12 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:36:12 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:36:12 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:36:12 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:36:12 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:36:12 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:36:12 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:36:12 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:36:12 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:36:12 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:36:12 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:36:12 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:38:04 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-24 14:38:04 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:38:04 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:38:04 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:38:04 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:38:04 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:38:04 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:38:04 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:38:04 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:38:04 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:38:04 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:38:04 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:38:04 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:38:04 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:39 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-24 14:39:39 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:39 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:39 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:39 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:39 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:39 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:39 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:39 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:39 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:39 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:39 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:39 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:39 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-24 14:39:40 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-24 14:39:40 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-24 14:39:40 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:40 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-24 14:39:41 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:41 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:41 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:41 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:41 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:41 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:41 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:41 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:41 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:41 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:41 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:41 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:39:41 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:47:49 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:47:49 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:47:49 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:47:49 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:47:49 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:47:49 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:47:49 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:47:52 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:47:52 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:47:52 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:47:52 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:47:52 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:47:52 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:47:52 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:54:09 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:54:09 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:54:09 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:54:09 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:54:09 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:54:09 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:54:09 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:54:13 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:54:13 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:54:13 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:54:13 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:54:13 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:54:13 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 14:54:13 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:02:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:02:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:02:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:02:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:02:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:02:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:02:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:02:01 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:02:01 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:02:01 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:02:01 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:02:01 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:02:01 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:02:01 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:11:09 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:11:09 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:11:09 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:11:09 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:11:09 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:11:09 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:11:09 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:11:13 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:11:13 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:11:13 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:11:13 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:11:13 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:11:13 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:11:13 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:10 (CST)      No existe el metodo PaginaPrincipal.html en el controlador controllers\operador C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:19 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:19 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:19 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:19 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:19 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:19 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:19 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:20 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-24 15:12:20 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:20 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:20 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:20 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:20 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:20 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:20 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:20 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:20 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:20 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:20 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:20 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:20 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:24 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:24 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:24 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:24 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:24 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:24 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:24 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:58 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:58 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:58 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:58 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:58 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:58 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:12:58 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:20 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-24 15:13:20 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:20 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:20 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:20 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:20 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:20 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:20 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:20 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:20 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:20 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:20 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:20 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:20 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:25 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-24 15:13:25 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:25 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:25 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:25 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:25 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:25 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:25 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:25 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:25 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:25 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:25 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:25 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-24 15:13:25 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:00:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:00:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:00:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:00:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:00:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:00:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:00:00 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:00:11 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:00:11 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:00:11 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:00:11 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:00:11 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:00:11 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:00:11 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:00:14 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:00:14 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:00:14 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:00:14 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:00:14 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:00:14 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:00:14 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:01:06 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:01:06 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:01:06 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:01:06 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:01:06 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:01:06 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:01:06 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:36 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:36 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:36 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:36 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:36 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:36 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:36 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:41 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:41 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:41 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:41 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:41 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:41 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:41 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:45 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:45 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:45 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:45 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:45 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:45 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:45 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:47 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-25 08:11:47 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:47 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:47 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:47 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:47 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:47 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:47 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:47 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:47 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:47 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:47 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:47 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:11:47 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:15:06 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:15:06 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:15:06 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:15:06 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:15:06 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:15:06 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:15:06 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:17:30 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:17:30 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:17:30 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:17:30 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:17:30 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:17:30 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:17:30 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:18:20 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:18:20 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:18:20 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:18:20 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:18:20 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:18:20 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:18:20 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:18:21 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:18:21 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:18:21 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:18:21 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:18:21 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:18:21 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:18:21 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:18:46 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:18:46 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:18:46 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:18:46 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:18:46 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:18:46 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:18:46 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:26:33 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:26:33 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:26:33 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:26:33 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:26:33 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:26:33 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:26:33 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:26:35 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:26:35 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:26:35 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:26:35 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:26:35 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:26:35 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:26:35 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:42 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:42 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:42 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:42 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:42 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:42 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:42 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:46 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:46 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:46 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:46 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:46 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:46 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:46 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:53 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:53 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:53 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:53 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:53 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:53 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:53 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:54 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:54 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:54 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:54 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:54 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:54 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:27:54 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:28:01 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:28:01 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:28:01 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:28:01 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:28:01 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:28:01 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:28:01 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:31:45 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:31:45 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:31:45 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:31:45 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:31:45 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:31:45 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:31:45 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:35:02 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:35:02 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:35:02 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:35:02 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:35:02 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:35:02 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:35:02 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:35:06 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:35:06 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:35:06 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:35:06 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:35:06 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:35:06 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:35:06 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:35:32 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:35:32 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:35:32 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:35:32 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:35:32 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:35:32 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:35:32 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:36:37 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:36:37 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:36:37 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:36:37 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:36:37 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:36:37 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:36:37 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:36:44 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:36:44 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:36:44 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:36:44 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:36:44 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:36:44 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:36:44 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:38:26 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:38:26 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:38:26 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:38:26 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:38:26 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:38:26 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:38:26 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:44:00 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:44:00 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:44:00 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:44:00 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:44:00 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:44:00 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:44:00 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:47:52 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:47:52 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:47:52 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:47:52 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:47:52 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:47:52 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 08:47:52 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:17:27 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:17:27 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:17:27 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:17:27 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:17:27 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:17:27 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:17:27 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:20 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:20 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:20 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:20 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:20 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:20 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:20 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:22 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-25 09:18:22 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:22 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:22 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:22 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:22 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:22 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:22 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:22 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:22 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:22 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:22 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:22 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:22 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:29 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:29 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:29 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:29 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:29 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:29 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:18:29 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:10 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:10 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:10 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:10 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:10 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:10 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:10 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:13 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:13 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:13 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:13 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:13 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:13 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:13 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:17 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:17 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:17 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:17 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:17 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:17 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:17 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:19 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:19 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:19 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:19 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:19 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:19 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:19:19 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:28:47 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:28:47 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:28:47 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:28:47 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:28:47 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:28:47 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:28:47 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:28:50 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:28:50 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:28:50 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:28:50 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:28:50 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:28:50 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:28:50 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:29:14 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:29:14 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:29:14 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:29:14 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:29:14 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:29:14 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:29:14 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:30:14 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:30:14 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:30:14 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:30:14 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:30:14 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:30:14 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:30:14 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:01 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:01 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:01 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:01 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:01 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:01 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:01 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:02 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-25 09:32:02 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:02 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:02 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:02 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:02 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:02 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:02 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:02 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:02 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:02 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:02 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:02 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:02 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:24 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:24 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:24 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:24 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:24 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:24 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:24 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:25 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-25 09:32:25 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:25 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:25 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:25 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:25 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:25 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:25 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:25 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:25 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:25 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:25 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:25 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:25 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:36 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:36 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:36 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:36 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:36 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:36 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:32:36 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:34:38 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:34:38 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:34:38 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:34:38 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:34:38 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:34:38 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:34:38 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:35:10 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:35:10 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:35:10 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:35:10 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:35:10 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:35:10 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:35:10 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:36:28 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:36:28 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:36:28 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:36:28 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:36:28 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:36:28 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:36:28 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:36:33 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:36:33 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:36:33 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:36:33 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:36:33 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:36:33 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:36:33 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:02 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:02 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:02 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:02 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:02 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:02 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:02 (CST)      No existe el metodo js en el controlador controllers\envio C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:31 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:31 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:31 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:31 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:31 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:31 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:31 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:49 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:49 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:49 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:49 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:49 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:49 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:49 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:58 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:58 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:58 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:58 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:58 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:58 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:38:58 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:40:37 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:40:37 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:40:37 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:40:37 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:40:37 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:40:37 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:40:37 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:21 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:21 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:21 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:21 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:21 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:21 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:21 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:21 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:21 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:21 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:21 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:21 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:21 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:21 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:22 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:22 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:22 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:22 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:22 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:22 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:22 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:22 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:22 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:22 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:22 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:22 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:22 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:22 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:46 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:46 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:46 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:46 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:46 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:46 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:46 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:52 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-25 09:41:52 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:52 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:52 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:52 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:52 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:52 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:52 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:52 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:52 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:52 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:52 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:52 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:41:52 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:44:34 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-25 09:44:34 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:44:34 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:44:34 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:44:34 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:44:34 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:44:34 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:44:34 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:44:34 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:44:34 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:44:34 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:44:34 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:44:34 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:44:34 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:05 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-25 09:45:05 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:05 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:05 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:05 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:05 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:05 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:05 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:05 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:05 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:05 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:05 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:05 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:05 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:06 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-25 09:45:06 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:06 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:06 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:06 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:06 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:06 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:06 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:06 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:06 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:06 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:06 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:06 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:06 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:17 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-25 09:45:18 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:18 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:18 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:18 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:18 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:18 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:18 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:18 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:18 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:18 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:18 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:18 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:45:18 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:53:36 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-25 09:53:36 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:53:36 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:53:36 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:53:36 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:53:36 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:53:36 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:53:36 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:53:36 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:53:36 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:53:36 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:53:36 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:53:36 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:53:36 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:57:09 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-25 09:57:09 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:57:09 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:57:09 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:57:09 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:57:09 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:57:09 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:57:09 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:57:09 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:57:09 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:57:09 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:57:09 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:57:09 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:57:09 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:58:31 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-25 09:58:31 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:58:31 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:58:31 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:58:31 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:58:31 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:58:31 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:58:31 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:58:31 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:58:31 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:58:31 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:58:31 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:58:31 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:58:31 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:26 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-25 09:59:26 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:26 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:26 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:26 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:26 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:26 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:26 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:26 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:26 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:26 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:26 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:26 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:27 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-25 09:59:27 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:27 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:27 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:27 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:27 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:27 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:27 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:27 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:27 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:27 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:27 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 09:59:27 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:06 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:06 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:06 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:06 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:06 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:06 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:06 (CST)      No existe el metodo js en el controlador controllers\cliente C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:50 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-25 10:00:50 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:50 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:50 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:50 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:50 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:50 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:50 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:50 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:50 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:50 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:50 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:50 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:52 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-25 10:00:52 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:52 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:52 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:52 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:52 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:52 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:52 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:52 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:52 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:52 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:52 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:00:52 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:04:28 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-25 10:04:28 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:04:28 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:04:28 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:04:28 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:04:28 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:04:28 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:04:28 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:04:28 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:04:28 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:04:28 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:04:28 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:04:28 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:05:22 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-25 10:05:22 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:05:22 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:05:22 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:05:22 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:05:22 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:05:22 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:05:22 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:07:13 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-25 10:07:13 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:07:13 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:07:13 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:07:13 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:07:13 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:07:13 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:07:13 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:07:13 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:07:13 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:07:13 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:07:13 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:07:13 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:07:13 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:09:31 (CST)      Undefined offset: 0 C:\Apache24\htdocs\proyectoEjemploSendItExpress456\views\Index\index.php 555
+
+2015-11-25 10:09:31 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:09:31 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:09:31 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:09:31 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:09:31 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:09:31 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:09:31 (CST)      No existe el metodo public en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:09:31 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
+2015-11-25 10:09:31 (CST)      No existe el metodo img en el controlador controllers\Index C:\Apache24\htdocs\proyectoEjemploSendItExpress456\index.php 48
+
